@@ -1,0 +1,21 @@
+img{
+    width: 250px;
+    height: 250px;
+}
+
+#article2{
+    background-color: blue;
+    color: white;
+}
+
+.heading{
+    color: blue;
+}
+
+.heading:hover{
+    color: aqua;
+}
+
+#article2:hover{
+    color: brown;
+}

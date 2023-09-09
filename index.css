@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1{
+    color: red;
+    font-size: larger;
+    font-family: cursive;
+    margin: 10px;
+}
